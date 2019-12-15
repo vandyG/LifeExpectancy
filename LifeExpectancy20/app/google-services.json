@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83026899883",
+    "firebase_url": "https://lifeexp-c3fa9.firebaseio.com",
+    "project_id": "lifeexp-c3fa9",
+    "storage_bucket": "lifeexp-c3fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83026899883:android:dc23c90bd7beebc5",
+        "android_client_info": {
+          "package_name": "com.example.lifeexpectancy20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83026899883-d741ts8luc3nq4rg022thkobtquh3es9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifeexpectancy20",
+            "certificate_hash": "2a1ecfd3f21029971a6f84d4afc18a4c4a2d8838"
+          }
+        },
+        {
+          "client_id": "83026899883-epgoi4uproqhi58hu3347ajsi16n8108.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kFyXp6pWMvIAz8TmZ-3UdCzExwyuwNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83026899883-epgoi4uproqhi58hu3347ajsi16n8108.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
